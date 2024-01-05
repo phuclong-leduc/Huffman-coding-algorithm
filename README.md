@@ -13,6 +13,5 @@ How to use all of these file:
     That's it !!!!!!!!
 
 Developed by Le Duc Phuc Long
-
-
+Scored by Teacher: 10/10 (points)
     
