@@ -1,5 +1,5 @@
 # Huffman-coding-algorithm
-Bài tập môn Lí thuyết thông tin tại trường đại học DUT
+Information Theory Exercise at DUT University
 
 How to use all of these file:
 
